@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/textFormatter/static/css/main.7250f7ea.css",
+    "main.js": "/textFormatter/static/js/main.a8345c6e.js",
+    "index.html": "/textFormatter/index.html",
+    "main.7250f7ea.css.map": "/textFormatter/static/css/main.7250f7ea.css.map",
+    "main.a8345c6e.js.map": "/textFormatter/static/js/main.a8345c6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7250f7ea.css",
+    "static/js/main.a8345c6e.js"
+  ]
+}
